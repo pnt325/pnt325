@@ -6,4 +6,4 @@ My experience skills:
 - Windows/Linux application: C# .NET framework, .NET, Python.
 - iOS, Android: Xamarin Form, .NET MAUI.
 - Development IOT edge device: prototype to production.
-- Full project solution development: firmware, hardware, software (I have a team)
+- Full project solution development: firmware, hardware, software.(we are agency)
