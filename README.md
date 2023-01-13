@@ -1,4 +1,4 @@
-I have 5+ years' experience development the embedded firmware/software. And development project from proof of concept to production I can handle almost of process to make project come to market.
+I have 5+ years' experience development the embedded firmware/software. Experience in development project from POC to production.
 
 My experience skills:
 - Embedded firmware development: C/C++ (💪).
