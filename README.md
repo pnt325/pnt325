@@ -8,4 +8,4 @@ My experience skills:
 - IOT Cloud: AWS Iot, Azure Iot, Thingsboard Cloud, MQTT, etc.
 - Development IOT edge device: prototype and production.
 - Production process experience: JIG Test, Test Firmware, ATS Software (Automation Test System)
-- Full Stack project solution development: Firmware, Hardware, Software.
+- Full Stack projects development: Firmware, Hardware, Software.
