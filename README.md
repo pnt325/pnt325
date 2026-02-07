@@ -1,21 +1,86 @@
-Thank you for looking my profile. 
+# 👋 Hi, I’m Phat Nguyen (pnt325)
 
-I'm embedded firmware and software developer over 8+ experiences. I'm worked over multiple position before full-time and full-stack developer: Hardware development (PCB layout and Schematic design), Application software development (Windows, Linux), Mobile application development (Android, iOS) and full cycles development device from prototype to productions.
+Thank you for visiting my GitHub profile!
 
-Currently I'm working full time on freelance projects, I build small home labs has some tools and equipments support for developing, testing and debugging embedded devices. I also manage a team with firmware/software (me), hardware, and mechanical engineering for fully support embedded device development.
+I’m an **Embedded Firmware & Software Engineer** with **8+ years of experience** building products across **hardware, firmware, desktop, and mobile platforms**. My work covers the **entire product lifecycle** — from prototype to production and deployment.
 
-My experiences and skills:
-- Embedded firmware and software development C/C++.
-- Embedded GUI: LVGL, TouchGFX, GUIx, UI design and deploy.
-- Embedded Webpage Server: Bootstrap, Javascript, html, mobile and desktop view scalable.
-- Desktop application: Windows, Linux (Python, C#), Optimization to with device firmware.
-- Mobile application: Android, iOS (Xamarin, .NET MAUI), launch to AppStore and PlayStore, optimize to work with device firmware.
-- Iot Cloud: AWS Iot, Azure Iot Core, Thingsboard Cloud.
-- Communication: BLE, WIFI, ETH, NFC, CAN, MODBUS, USB (WINUSB, WINCID, LIBUSB, etc.), Z-WAVE etc.
-- Real-time operation: freeRTOS, Azure RTOS(Threadx), Zephyr, etc.
-- Microcontroller: STM32, EFR32, EFM32, ZGM23, NRF52, ESP32, PIC, AVR, ATSAM, Ambiq Apollo, etc.
-- Framework: STM32Cube, nRF Connect, nRF52 SDK, Zephyr, ESP-IDF, SiliconLabs Gecko, etc.
-- Device firmware update(DFU): OTA, Bootloader, Secureboot, Flash encryption, etc.
-- Manufacturing: ATS(Automation Test Software), testing firmware, flashing tools and scripts, Secureboot, Flash encryption, etc.
-- Low power consumption.
-- Troubleshooting and bug fixing.
+I have hands-on experience in **hardware design (schematic & PCB)**, **embedded systems**, **desktop and mobile applications**, and **cloud-connected IoT devices**.  
+Currently, I work full-time on **freelance and contract projects**, helping teams design, develop, and ship reliable embedded products.
+
+I maintain a **home development lab** with professional tools for debugging, testing, and validation. I also collaborate with and manage cross-functional teams including **firmware/software, hardware, and mechanical engineers** to deliver complete embedded solutions.
+
+---
+
+## ⚙️ Skills & Expertise
+
+### 🔧 Embedded Firmware & RTOS
+- Embedded firmware & software development in **C / C++**
+- Real-time operating systems:
+  - **FreeRTOS**
+  - **Azure RTOS (ThreadX)**
+  - **Zephyr**
+
+### 🖥️ Embedded UI & Web
+- Embedded GUI:
+  - **LVGL**
+  - **TouchGFX**
+  - **GUIx**
+- Embedded web servers:
+  - **HTML / JavaScript / Bootstrap**
+  - Responsive UI for mobile & desktop
+
+### 💻 Application Development
+- Desktop applications:
+  - **Windows & Linux**
+  - **Python, C#**
+- Mobile applications:
+  - **Android & iOS**
+  - **Xamarin, .NET MAUI**
+  - Published to **App Store & Google Play**
+- Tight integration with embedded firmware
+
+### ☁️ IoT & Cloud
+- **AWS IoT**
+- **Azure IoT Hub**
+- **ThingsBoard Cloud**
+
+### 🔌 Communication Protocols
+- **BLE**, **Wi-Fi**, **Ethernet**
+- **NFC**, **CAN**, **Modbus**
+- **USB** (WinUSB, libusb, custom drivers)
+- **Z-Wave** and other protocols
+
+### 🧠 MCUs & Platforms
+- Microcontrollers:
+  - **STM32**
+  - **NRF52**
+  - **ESP32**
+  - **EFR32 / EFM32 / ZGM23**
+  - **PIC, AVR, ATSAM**
+  - **Ambiq Apollo**
+- Frameworks & SDKs:
+  - **STM32Cube**
+  - **nRF Connect / nRF5 SDK**
+  - **Zephyr**
+  - **ESP-IDF**
+  - **Silicon Labs Gecko SDK**
+
+### 🔐 DFU, Security & Manufacturing
+- Firmware update:
+  - **OTA**
+  - **Bootloader**
+  - **Secure Boot**
+- Flash encryption & secure provisioning
+- Manufacturing support:
+  - **Automation Test Software (ATS)**
+  - Flashing tools & scripts
+- Low-power optimization
+
+### 🛠️ Other Strengths
+- Debugging & troubleshooting complex embedded systems
+- Performance optimization
+- Cross-team collaboration
+
+---
+
+📫 Feel free to explore my repositories or reach out for collaboration or freelance opportunities.
