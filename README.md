@@ -48,7 +48,7 @@ I maintain a **home development lab** with professional tools for debugging, tes
 - **BLE**, **Wi-Fi**, **Ethernet**
 - **NFC**, **CAN**, **Modbus**
 - **USB** (WinUSB, libusb, custom drivers)
-- **Z-Wave** and other protocols
+- **Z-Wave**
 
 ### 🧠 MCUs & Platforms
 - Microcontrollers:
