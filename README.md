@@ -14,7 +14,7 @@ I maintain a **home development lab** with professional tools for debugging, tes
 ## ⚙️ Skills & Expertise
 
 ### 🔧 Embedded Firmware & RTOS
-- Embedded firmware & software development in **C / C++**
+- Embedded firmware & software development in **C/C++**
 - Real-time operating systems:
   - **FreeRTOS**
   - **Azure RTOS (ThreadX)**
@@ -26,8 +26,9 @@ I maintain a **home development lab** with professional tools for debugging, tes
   - **TouchGFX**
   - **GUIx**
 - Embedded web servers:
-  - **HTML / JavaScript / Bootstrap**
+  - **HTML/JavaScript/Bootstrap**
   - Responsive UI for mobile & desktop
+  - Websocket
 
 ### 💻 Application Development
 - Desktop applications:
