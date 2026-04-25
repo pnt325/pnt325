@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile!
 
-I’m an **Embedded Firmware & Software Engineer** with **9+ years of experience** building products across **hardware, firmware, desktop, and mobile platforms**. My work covers the **entire product lifecycle** — from prototype to production and deployment.
+I’m an **Embedded Firmware & Software Engineer** with **9+ years of experience** building products across **hardware, firmware, application(desktop and mobile)**. My work covers the **entire product lifecycle** — from prototype to production and deployment.
 
 I have hands-on experience in **hardware design (schematic & PCB)**, **embedded systems**, **desktop and mobile applications**, and **cloud-connected IoT devices**.  
 Currently, I work full-time on **freelance and contract projects**, helping teams design, develop, and ship reliable embedded products.
